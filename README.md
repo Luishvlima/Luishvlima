@@ -32,3 +32,11 @@ Tenho 18 anos e estou cursando Ciências da Computação na Estácio. Sou uma pe
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title = "VisualStudioCode"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title = "GitHub"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title ="Git"/></code>
+
+
+## 📱 Contatos 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-vieira-lima-78267a351/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=White)](https://github.com/Luishvlima)
+[![Gmail](https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:Luishvieira13@gmail.com)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=219A01&height=120&section=footer"/>
